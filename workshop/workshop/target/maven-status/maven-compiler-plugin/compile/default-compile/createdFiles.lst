@@ -1,0 +1,16 @@
+com\esprit\workshop\repository\UserRepository.class
+com\esprit\workshop\service\UserService.class
+com\esprit\workshop\configuration\JWTAuthorizationFilter.class
+com\esprit\workshop\dto\LoginRequest.class
+com\esprit\workshop\dto\UserRegistrationRequest.class
+com\esprit\workshop\configuration\JWTAuthenticationFilter.class
+com\esprit\workshop\dto\LoginResponse.class
+com\esprit\workshop\WorkshopApplication.class
+com\esprit\workshop\configuration\SecurityConfig.class
+com\esprit\workshop\controller\RoleBasedController.class
+com\esprit\workshop\controller\UserController.class
+com\esprit\workshop\configuration\DataInitializer.class
+com\esprit\workshop\configuration\JwtUtils.class
+com\esprit\workshop\model\User.class
+com\esprit\workshop\repository\RoleRepository.class
+com\esprit\workshop\model\Role.class

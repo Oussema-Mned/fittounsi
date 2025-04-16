@@ -1,0 +1,16 @@
+C:\Users\ASUS\Documents\workshop\src\main\java\com\esprit\workshop\configuration\DataInitializer.java
+C:\Users\ASUS\Documents\workshop\src\main\java\com\esprit\workshop\configuration\JWTAuthenticationFilter.java
+C:\Users\ASUS\Documents\workshop\src\main\java\com\esprit\workshop\configuration\JWTAuthorizationFilter.java
+C:\Users\ASUS\Documents\workshop\src\main\java\com\esprit\workshop\configuration\JwtUtils.java
+C:\Users\ASUS\Documents\workshop\src\main\java\com\esprit\workshop\configuration\SecurityConfig.java
+C:\Users\ASUS\Documents\workshop\src\main\java\com\esprit\workshop\controller\RoleBasedController.java
+C:\Users\ASUS\Documents\workshop\src\main\java\com\esprit\workshop\controller\UserController.java
+C:\Users\ASUS\Documents\workshop\src\main\java\com\esprit\workshop\dto\LoginRequest.java
+C:\Users\ASUS\Documents\workshop\src\main\java\com\esprit\workshop\dto\LoginResponse.java
+C:\Users\ASUS\Documents\workshop\src\main\java\com\esprit\workshop\dto\UserRegistrationRequest.java
+C:\Users\ASUS\Documents\workshop\src\main\java\com\esprit\workshop\model\Role.java
+C:\Users\ASUS\Documents\workshop\src\main\java\com\esprit\workshop\model\User.java
+C:\Users\ASUS\Documents\workshop\src\main\java\com\esprit\workshop\repository\RoleRepository.java
+C:\Users\ASUS\Documents\workshop\src\main\java\com\esprit\workshop\repository\UserRepository.java
+C:\Users\ASUS\Documents\workshop\src\main\java\com\esprit\workshop\service\UserService.java
+C:\Users\ASUS\Documents\workshop\src\main\java\com\esprit\workshop\WorkshopApplication.java
